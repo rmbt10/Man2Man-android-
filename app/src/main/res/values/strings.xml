@@ -1,0 +1,33 @@
+<resources>
+    <!-- Checkout -->
+    <string name="app_name">Man2Man</string>
+    <string name="checkout_title">Checkout</string>
+    <string name="total_format">Total: $%s</string>
+    <string name="shipping_info">Shipping Information</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_city">City</string>
+    <string name="payment_info">Payment Information</string>
+    <string name="hint_card_number">Card Number</string>
+    <string name="confirm_purchase">Confirm Purchase</string>
+    <string name="fill_fields">Please fill all fields</string>
+    <string name="cart_empty">Cart is empty!</string>
+    <string name="purchase_success_title">Purchase Successful</string>
+    <string name="purchase_success">Thank you for your order!\nTotal: $%s</string>
+    <string name="ok">OK</string>
+
+    <!-- Profile -->
+    <string name="profile_picture">Profile Picture</string>
+    <string name="mock_user_name">John Doe</string>
+    <string name="mock_user_email">john@example.com</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+    <string name="back_button">Back</string>
+    <string name="product_detail_title">Jersey Detail</string>
+    <string name="select_size">Select Size</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="view_cart">View Cart</string>
+    <string name="club_season_format">%1$s - %2$s</string>
+    <string name="price_format">$%s</string>
+</resources>
